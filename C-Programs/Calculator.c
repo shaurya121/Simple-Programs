@@ -9,7 +9,7 @@ int main() {
 
   switch (op) {
     case '+':
-      printf("%ld + %ld = %ld", first, second, first + second);
+      printf("%ld+ %ld = %ld", first, second, first + second);
       break;
     case '-':
       printf("%ld - %ld = %ld", first, second, first - second);
